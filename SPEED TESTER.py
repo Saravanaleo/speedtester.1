@@ -1,5 +1,6 @@
 import time
-prompt ="The quick brown fox jumps over the lazy dog."
+prompt =("With great power comes greater responsibility"
+         "")
 print("Type the sentence below and hit ENTER:\n")
 print(f'"{prompt}"\n')
 input("Press ENTER when you are ready to begin...")
